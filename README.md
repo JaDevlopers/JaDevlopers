@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgreatlog%2FUnpairedSR&psig=AOvVaw3XXRR8ezdcHSzkCMyFCH2o&ust=1724764630181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiR443fkogDFQAAAAAdAAAAABAE
+
+
 
 <h1 align="center">MERHABA JaDevlopers</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
